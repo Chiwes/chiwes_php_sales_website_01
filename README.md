@@ -18,5 +18,7 @@ localhost:/Forshop.index.php<br>
 架設此網頁主要是參考W3SCHOOL教學網站以及PHP&MySQL跨裝置網頁開發書籍，所架設出來的。
 </p>
 
+<p>日後有空會再補系統概述文件上來</p>
+
 
 
